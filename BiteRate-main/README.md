@@ -92,6 +92,3 @@ For detailed usage and parameter options, refer to the respective script docstri
 ---
 
 Thank you for exploring Biterate! Contributions and feedback are welcome.
-
-
-tuttuuuu
